@@ -1,2 +1,2 @@
 # web_scraping
-web scraping demo projects 
+In this repo, I practice web scraping demo projects.
